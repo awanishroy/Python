@@ -10,3 +10,20 @@
     8. None Data Type (None)
 
 """
+
+
+a = "Hello World"
+b = 10
+c = 11.22
+d = ("apna", "software", "group")
+e = ["apna", "software", "group"]
+f = {"apna": 1, "software":2, "group":3}
+g = None
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
+print(type(g))
